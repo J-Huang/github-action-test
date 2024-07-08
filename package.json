@@ -1,0 +1,22 @@
+{
+  "name": "git-action-test",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo hello"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/J-Huang/github-action-test.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "zero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/J-Huang/github-action-test/issues"
+  },
+  "homepage": "https://github.com/J-Huang/github-action-test#readme"
+}
